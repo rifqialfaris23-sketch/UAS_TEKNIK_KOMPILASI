@@ -1,5 +1,8 @@
-# Simulasi Tahapan Kompilasi pada Struktur Perulangan `while`
+# UAS Teknik Kompilasi
 
+**Nama :** Muhammad Rifqi Alfaris
+**NIM :** 231011403428
+**Kelas :** 06TPLE003
 **Mata Kuliah:** Teknik Kompilasi
 **Tugas:** Proyek Akhir UAS
 **Bahasa Pemrograman:** Python
